@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Committing new file learning this
+Learning the hard way- solo
 Use the left arrow to go back!
